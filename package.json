@@ -1,5 +1,5 @@
 {
-  "name": "queenriam",
+  "name": "Ramcing",
   "version": "1.0.0",
   "description": "whatsappbot",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "",
+  "author": "Ramcing",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
